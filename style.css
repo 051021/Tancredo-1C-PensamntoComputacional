@@ -2,6 +2,11 @@ body {
     text-align: center;
     background: #faedcd;
 }
-#slogan{
-font-size: 25px;
+#slogan {
+ font-size: 25px;
 }
+.capa{
+    width: 70%;
+    height: 100%;
+}
+
